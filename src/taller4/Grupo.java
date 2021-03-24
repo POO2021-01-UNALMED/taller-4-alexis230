@@ -1,6 +1,5 @@
 package taller4;
 
-
 public class Grupo {
 
     Persona[] estudiantes;
